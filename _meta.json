@@ -1,0 +1,9 @@
+{
+  "name": "role-configurator",
+  "version": "1.1.0",
+  "description": "OpenClaw 角色配置助手 - 25 个预设角色模板，帮你轻松完成 OpenClaw 的角色配置，是每个新用户的第一个 skill。覆盖生活、商业、营销、母婴、情感、学术研究等全场景。",
+  "author": "cang",
+  "created_at": "2026-04-03",
+  "categories": ["utilities", "setup", "productivity"],
+  "keywords": ["角色配置", "初始化", "setup", "role", "config", "模板", "小红书", "PPT", "会议纪要", "薅羊毛", "商业计划书", "直播", "短视频", "母婴", "心理咨询", "美食", "论文", "科研", "学术", "研究生", "博士生"]
+}
